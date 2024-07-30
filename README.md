@@ -7,6 +7,7 @@ Smart WasteSense is an automated waste management system designed to optimize wa
 - **Ultrasonic Sensing**: Uses an HC-SR04 sensor to measure waste levels without physical contact, maintaining hygiene.
 - **Automated Lid Operation**: The stepper motor, controlled by the LPC1768 microcontroller, automatically opens and closes the bin lid based on waste proximity.
 - **LED Indicators**: Includes an LED system that signals the operational status and waste level detection.
+![Project Image](https://github.com/user-attachments/assets/341a65ed-c98d-492a-92cb-fa2a5941eea2)
 
 ## Components
 - LPC1768 Microcontroller
